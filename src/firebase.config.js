@@ -6,12 +6,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDRa96vei1pBO6yXyJ-XuNjpiQ2gCvxbu0",
-  authDomain: "flutter-firebase-bd5cd.firebaseapp.com",
-  projectId: "flutter-firebase-bd5cd",
-  storageBucket: "flutter-firebase-bd5cd.appspot.com",
-  messagingSenderId: "407785163830",
-  appId: "1:407785163830:web:1180083a250f75bec91c97",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 // Initialize Firebase
